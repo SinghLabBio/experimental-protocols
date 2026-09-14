@@ -1,0 +1,4 @@
+# Bacteria transformation
+Transformation protocol: thaw on ice an aliquote of chemically competent bacteria for 5 minutes, add 1ul of your low concentration plasmid (20-100mg/ml -> 20-100ug), wait for 10 minutes, heat shock for 45 sec 42C and put back on ice again. After 5 minutes, add 500ul of SOC media and shake 800rmps 60minutes. Plate 100ul of it on an LB agar, spread with a cell spreader and put in a static 37C incubator O/N.
+
+Volumes can be adapted to needs. For example, after a mutagenesis, you want to add -15ul of the PCR DPN1 digested product and recover in 250ul of SOC to plate 200ul. Similar to cotransformations

@@ -4,11 +4,11 @@ Methodologically, all expressions and purifications are done as similarly as pos
 Transform BL21 bacteria with 1ul of plasmid.
 Transformation protocol: thaw on ice an aliquote of BL21 (NEB) for 5 minutes, add 1ul of your low copy plasmid (20-100mg/ml -> 20-100ug), wait for 10 minutes, heat shock for 45 sec 42C and back to ice again. After 5 minutes, add 500ul of SOC media and shake 800rmps 60minutes. Plate 100ul of it and put in 37C incubator O/N.
 ## Day -1:
-Take 1 colony from the plate and put it in 120ml liquid LB media in a 250ml baffled flask + antibiotic shaking 170rpms, 37C O/N.
+Take 1 colony from the plate and put it in 60ml liquid LB media in a 250ml baffled flask + antibiotic shaking 170rpms, 37C O/N.
 ## Day 0:
-scale up culture to 12L in 12 2l baffled flasks and grow at 37C shaking 170rpms until optic density 600nm reaches 0.2 (typically, 2h). Then, chill for 60 minutes at 18C 170rpms shaking and induce with 1mM IPTG (1ml) O/N.
+scale up culture to 12L in 6 2l baffled flasks and grow at 37C shaking 170rpms until optic density 600nm reaches 0.2 (typically, 2h). Place flasks on ice for 15mins Then, induce with 0.5mM IPTG (1ml) and set for O/N 18C 170rpms shaking.
 ## Day 1:
- Separate and collect pellet by centrifugation 4000rpms and resuspended in 300ml Lysis buffer and freeze at -80C if you want to store. Lyse at 70% amplitude 5minutes x 100ml final volume (typically, 500ml) on ice 5s ON / 10s OFF. Spined down for 60min 18000rpms and supernatant sonicated again 5s/100ml to break DNA chains (or add benzonase). Filtrated 0.45uM and put in sample pump 5th floor akta to purify O/N 1ml/min.
+ Collect pellet by centrifugation 4000rpms 20mins 4C, resuspend in 150ml Lysis buffer and freeze at -80C if you want to store. Lyse at 70% amplitude 5minutes x 100ml of final volume (typically, 250ml - 12min) on ice 5s ON / 10s OFF. Spin down 30min 18000rpms 4C. Filtrate 0.45uM with a syringe and put in sample pump of akta/NGC to purify O/N 1ml/min.
 Nico affinity protocol: Passes sample through HisTrap HP column equilibrated in buffer A. Washes with Buffer A, 5% buffer B until signal is stable +- 1mAU for 1minute. Gradient up to 100% buffer B 20 CVs.
 ## Day 2:
 Pool peak fractions.
